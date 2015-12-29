@@ -21,4 +21,4 @@ where "F1" is the function key to which the macro is bound and "100" is the numb
 
 If you run it without any command line arguements, then the default key is F1 and the default number of items is 100.
 
-Note: Use only keys from F1 to F12!
+Note: Use only keys from F1 to F12.
