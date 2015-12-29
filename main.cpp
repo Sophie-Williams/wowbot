@@ -55,7 +55,8 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	printf("Executing %i iterations...\r\n", times);
 
-	for (int i = 0; i < times; i++) {
+	for (int i = 0; i < times; i++) 
+	{
 		printf("Executing iteration %i\r\n", (i + 1));
 		pressKey(key);
 		wait(2, 4);
