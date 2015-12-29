@@ -14,7 +14,7 @@
     <ProjectGuid>{4B42FC33-93E2-4870-AF5C-11C52A385009}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ConsoleApplication1</RootNamespace>
-    <ProjectName>PressKey</ProjectName>
+    <ProjectName>bot</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
